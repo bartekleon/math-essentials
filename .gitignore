@@ -1,0 +1,5 @@
+.vs
+bin
+inter
+**/[Pp]ackages/*
+*.user
